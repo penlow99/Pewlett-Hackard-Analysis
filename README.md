@@ -10,7 +10,7 @@ The "silver tsunami" analysis was created in order to better plan for the future
 
 3. a summary was created to show the total number of retirement-age employees for each title within the company. ***(Data/retiring_titles.csv)***
 
-4. a list of employees born in 1965 who are elgibile for a mentorship program was created, so that they may help transition younger employees into higher roles within the company. ***(Data/mentorship_eligibilty.csv)***
+4. a list of employees born in 1965 who are elgibile for a mentorship program was created, so that they may help transition younger employees into new roles within the company. ***(Data/mentorship_eligibilty.csv)***
 
 ---
 ## Resources
@@ -104,7 +104,7 @@ ORDER BY e.emp_no;
 
 - Using the current_emp table created in the database for this purpose, there are **33,118** currently employed people who are eligible for retirement soon. It is reasonable to assume a large majority of these roles will need to be filled in the near future.
 
-- With only **1,549** current employees available for the mentoring program, and **33,118** positions to be filled soon, it would require each mentor to help approxiamately **21** new employees each. This number sounds a bit high, so immediate action and further analysis on this problem is most likely necessary.  
+- With only **1,549** current employees available for the mentoring program, and **33,118** positions to be filled soon, it would require each mentor to help approxiamately **21** new employees each. This number sounds a bit high, so immediate action and further analysis on this problem are most likely necessary.  
      
 
 ### SQL Queries for additional insight into this issue   

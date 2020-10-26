@@ -84,8 +84,10 @@ ORDER BY e.emp_no;
 ## Results
 - Almost half of retirement-age employees have changed titles while working for the company (43,378 employees out of 90,398)  
 <span style="color:red"><b>
-![First Query](./Images/query1.png)  <-- the first query for total employees' titles  
-![Second Query](./Images/query2.png) <-- the second query for most recent title  
+  - The return message from the first query for total employees' titles, as follows:  
+![First Query](./Images/query1.png)
+  - The return message from the second query for most recent title, as follows:   
+![Second Query](./Images/query2.png) 
 </b></span>
 
 - The senior positions (Senior Engineer and Senior Staff) far outnumber the other positions of eligible employees  

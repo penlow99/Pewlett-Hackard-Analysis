@@ -4,9 +4,9 @@
 
 The "silver tsunami" analysis was created in order to better plan for the future of Pewlett-Hackard, based upon an aging work force approaching the retirement age. The particular aspects of the new analysis are as follows:
 
-1. a list of possibly retiring employees whose birthday falls in between January 1, 1952 and December 31, 1955 was created. ***(Data/retirement_titles.csv)***
+1. a list of possibly retiring employees and their titles, whose birthdays fall in between January 1, 1952 and December 31, 1955 was created. ***(Data/retirement_titles.csv)***
 
-2.  the above list sorted by their most recent titles ***(Data/unique_titles.csv)***
+2.  the above list filtered by their most recent titles ***(Data/unique_titles.csv)***
 
 3. a summary was created to show the total number of retirement-age employees for each title within the company. ***(Data/retiring_titles.csv)***
 
